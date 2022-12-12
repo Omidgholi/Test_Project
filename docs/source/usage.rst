@@ -3,14 +3,14 @@ Usage
 
 .. _installation:
 
-Installation
+Install Dependencies
 ------------
 
-To use ARC Stats, first install it using pip:
+To use ARC Stats, first dependencies using pip:
 
 .. code-block:: console
 
-   pip install lumache
+   pip install -r docs/requirements.txt
 
 Creating recipes
 ----------------
