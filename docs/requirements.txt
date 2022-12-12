@@ -9,7 +9,7 @@ fonttools==4.38.0
 h11==0.14.0
 idna==3.4
 kiwisolver==1.4.4
-matplotlib==3.6.2
+matplotlib==3.5.3
 numpy==1.23.5
 outcome==1.2.0
 packaging==22.0
