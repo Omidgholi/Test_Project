@@ -49,7 +49,7 @@ def gym_analysis(venue, start_date, end_date):
     print(data)
 
 
-    ax = sns.lineplot(data=data, x="time", y="count", hue="venue", ci=None)
+    ax = sns.lineplot(data=data, x="time", y="count", hue="venue", errorbar=None)
     ax.set(xlabel="Time (24h Format)", ylabel="Count")
     if start_date is None and end_date is None:
         ax.set_title(f"Occupancy Data for {venue}")
