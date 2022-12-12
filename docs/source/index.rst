@@ -1,10 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to ARC Stats documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**ARC Stats** is a Python program for those interested in uncrowded gyms.
+
+It obtains occupancy data from the ARC's website 
+It pulls data from the `Open Food Facts database <https://connect2concepts.com/connect2/?type=circle&key=59ac279f-1fd6-4e55-925c-f7e02764ab00>`_
+and offers a *simple* and *intuitive* GUI.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
